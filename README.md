@@ -1,1 +1,0 @@
-# django_stock_screen
